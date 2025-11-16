@@ -24,4 +24,9 @@ public class CountNoOfOddDigitInNumber {
         }
         return cnt;
     }
+
+    /*
+    * Time Complexity - O(n)
+    * Space Complexity - O(1)
+    * */
 }
