@@ -20,5 +20,7 @@ public class CountAllDigitsOfNumber {
     Space Complexity = O(1) -- no external memory is being used   */
 
 /*    2nd way of to solve the problem
-    by using formula log10(num)^2 + 1*/
+    by using formula log10(num)^2 + 1
+    Time Complexity = log(num)
+    */
 }
